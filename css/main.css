@@ -1,0 +1,61 @@
+
+body{
+    font-family: 'Source Code Pro';
+}
+
+
+
+#content{
+    width: 450px;
+    margin:20px auto;
+    text-align: center;
+}
+
+p#bio{
+    text-align: justify;
+    margin: 10px 22px 10px 22px;
+}
+
+p#job{
+    text-align: center;
+    margin: 10px 22px 10px 22px;
+}
+
+img{
+ float:left;   
+}
+
+#info{
+    margin-top: 15px;
+      margin-bottom: 20px;
+}
+
+#infor{
+  margin-top: 10px;
+  margin-bottom: 50px;
+    text-align: left;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+a:link {
+    color: mediumpurple;
+}
+
+/* visited link */
+a:visited {
+    color: mediumpurple;
+}
+
+/* mouse over link */
+a:hover {
+    color: rebeccapurple;
+}
+
+/* selected link */
+a:active {
+    color: mediumpurple;
+}
