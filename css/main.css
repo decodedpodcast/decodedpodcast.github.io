@@ -1,9 +1,11 @@
 
 body{
-    font-family: 'Source+Code+Pro';
+    font-family: 'Source+Code+Pro', sans-serif;
 }
 
-
+p{
+    font-family: 'Source+Code+Pro', sans-serif;
+}
 
 #content{
     width: 450px;
